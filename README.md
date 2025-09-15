@@ -1,4 +1,4 @@
-[![Build Status](https://jenkins.h-its.org/buildStatus/icon?job=MCM/HITS-MCM/gromacs-ramd/main)](https://jenkins.h-its.org/job/MCM/job/HITS-MCM/job/gromacs-ramd/job/main/)
+<img width="138" height="26" alt="图片" src="https://github.com/user-attachments/assets/9c6ea788-9b89-412a-abdf-c0bc350cad4d" />[![Build Status](https://jenkins.h-its.org/buildStatus/icon?job=MCM/HITS-MCM/gromacs-ramd/main)](https://jenkins.h-its.org/job/MCM/job/HITS-MCM/job/gromacs-ramd/job/main/)
 
 # Random Acceleration Molecular Dynamics (RAMD)
 
@@ -60,7 +60,8 @@ Please use following mdp options:
 
    This parameter affect absolute dissociation time but have less
    effect on the relative dissociation times of different compounds. It is
-   recommended to use default value.
+   recommended to use default value. Default value is 0.0025 nm.
+
 
  * ramd-group1-max-dist
 
